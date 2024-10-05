@@ -18,3 +18,8 @@ In the Solution-1 folder you will then find:
 
 ## Workshop-2
 It focuses on proposing the identification of essential classes, as well as their respective responsibilities and methods, to build an application that manages products and users efficiently. Through the use of diagrams and the drafting of adequate documentation, it is possible to design a system that is functional and complies with the established requirements, thus facilitating the software development process. The importance of testing and validation of the system to ensure its proper functioning is also addressed. They developed practical skills in the construction and documentation of object-oriented applications.
+
+In the Workshop-2 folder you will then find:
+
+- __Code__ : Here is presented the software development related to the problem posed.
+- __Document__ : This PDF document is the technical report of Workshop-2, with updated user stories and UML diagrams.
