@@ -10,6 +10,8 @@ This repository is for the presentation of workshops during the advanced program
 
 This workshop consists of developing a CLI application for an electronics store. You will collect feedback from 15 students about desired functionalities in a catalog of electronic devices and use that information to create user stories, which are implemented in the code along with functionalities such as adding products to the cart, and making payments with delivery information. Additionally a detailed report will be prepared including user stories, object oriented programming principles, and some UML diagrams.
 
+In the Solution-1 folder you will then find:
+
 - __Code__ : Here is presented the software development related to the problem posed.
 - __Document__ : This PDF document is the Workshop-1 technical report, which includes the user stories and UML diagrams of the project.
 
