@@ -1,10 +1,12 @@
 ## Workshop
 
 This repository is for the presentation of workshops during the advanced programming course.
+Name: Mariam Betin Escobar ID: 2032020300
 
 - [Workshop](#Workshop)
     - [Workshop-1](#Workshop-1 (Solution-1))
     - [Workshop-2](#Workshop-2)
+    - [Workshop-3](#Workshop-3)
  
 ## Workshop-1 (Solution-1)
 
@@ -23,3 +25,6 @@ In the Workshop-2 folder you will then find:
 
 - __Code__ : Here is presented the software development related to the problem posed.
 - __Document__ : This PDF document is the technical report of Workshop-2, with updated user stories and UML diagrams.
+
+## Workshop-3
+This document presents the progress of the conceptual design of a web platform, including proposals for the graphical interface (GUI) and the structure of web services. An accessible color palette is proposed and mockups of the main page and the shopping cart are shown. In addition, web services such as authentication, user registration, product procurement and cart management are detailed. The objective is to adjust the design and functionalities according to the client's needs.
